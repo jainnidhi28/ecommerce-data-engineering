@@ -1,0 +1,15 @@
+{
+	"name": "adf-ecommerce-de-nidhi",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "49ae4332-e925-42a2-b72e-4d228c3dd0ea",
+		"tenantId": "5a86418d-c69c-428c-a608-2bf0145dd9a2"
+	}
+}
